@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://opendata.elia.be/explore/dataset/ods033/export/?sort=-datetime
+HostUrl=https://opendata.elia.be/api/explore/v2.1/catalog/datasets/ods033/exports/parquet?lang=en&timezone=Europe%2FBrussels
